@@ -16,4 +16,4 @@ install:
   - pip install -q -e . --use-mirrors
 
 script:
-– python manage.py test
+  - python manage.py test
